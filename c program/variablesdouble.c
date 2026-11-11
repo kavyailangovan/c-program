@@ -2,7 +2,7 @@
 # include <stdio.h>
 int main()
 {
-    double pi=3.143675236556767676769;
-    printf("the values of pi is: %.2lf ",pi);
+    double pi=3.1415926535897932384626433832795;
+    printf("the values of pi is: %.30lf ",pi);
     return 0;
 }
